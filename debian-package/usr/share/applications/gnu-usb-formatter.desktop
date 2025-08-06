@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=GNU USB Formatter
-Comment=A simple USB formatting tool
-Exec=/usr/bin/GNU_USB_Formatter
-Icon=/usr/share/GNU_USB_Formatter/icons/usb_icon.png
-Terminal=false
-Type=Application
-Categories=Utility;
